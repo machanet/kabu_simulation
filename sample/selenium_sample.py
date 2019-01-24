@@ -4,7 +4,6 @@
 # pip install selenium
 # brew cask install chromedriver
 #
-
 from selenium import webdriver
 import chromedriver_binary
 
